@@ -7,7 +7,7 @@
 Chicago, IL 🏙️ · Northwestern University '27 · CS + Social Policy (Security Concentration, ML/DS Minor)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-krissyunn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krissyunn/)
-[![Email](https://img.shields.io/badge/Email-krissyunn%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kris.yun@northwestern.edu)
+[![Email](https://img.shields.io/badge/Email-kris.yun%40northwestern.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kris.yun@northwestern.edu)
 
 ⋆⋅☆⋅⋆
 
@@ -86,19 +86,6 @@ Helped run a coding program for 8,000+ scholars in 50+ cities; built a React/Nod
 <div align="center">
 
 𓂃 ⋆｡˚ ☁︎ ˚｡⋆ 𓂃
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Kris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksyun360&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksyun360&layout=compact&hide_border=true)
-
-</div>
-
-<div align="center">
-
-⋆｡°✩ ⋆｡°✩ ⋆｡°✩
 
 💬 Always happy to talk security, hackathons, or good code — reach out anytime! ♡
 
