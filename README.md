@@ -28,7 +28,7 @@ I'm a Computer Science + Social Policy student at Northwestern, building softwar
 
 </div>
 
-### 🚀 What I've Built
+### 🚀 Where I've Been
 
 **🎪 Director, WildHacks** — Chicagoland's largest hackathon ✩
 Grew the event from 174 → 700+ students across 108 universities, led 4 cross-functional teams (logistics, corporate engagement, tech, marketing), and raised $10K+ to keep the event free for every attendee.
@@ -46,6 +46,17 @@ Support the Threat Modeling Intensive at BlackHat — data flow diagrams, STRIDE
 Helped run a coding program for 8,000+ scholars in 50+ cities; built a React/Node geocoding tool that improved instructor placement efficiency by 400%.
 
 <div align="center">
+
+> ```
+> 　　　　　　 ╭─────────────────────────────╮
+> 　　　　　　 ✩  a note on these roles  ✩
+> 　　　　　　 ╰─────────────────────────────╯
+> ```
+> 🔒 ‧₊˚ *psst — a good chunk of my work lives in private repos!* ˚₊‧ 🔒
+>
+> Most of what I've built at Amazon, Shostack + Associates, and Kode with Klossy aren't public. ⋆｡°✩
+>
+> **If you'd love to see a fuller portfolio, just reach out — I'm always happy to share more about my story!** 🎀
 
 ⋆⋅☆⋅⋆
 
