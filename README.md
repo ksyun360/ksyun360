@@ -47,16 +47,21 @@ Helped run a coding program for 8,000+ scholars in 50+ cities; built a React/Nod
 
 <div align="center">
 
-> ```
-> 　　　　　　 ╭─────────────────────────────╮
-> 　　　　　　 ✩  a note on these roles  ✩
-> 　　　　　　 ╰─────────────────────────────╯
-> ```
-> 🔒 ‧₊˚ *psst — a good chunk of my work lives in private repos!* ˚₊‧ 🔒
->
-> Most of what I've built at Amazon, Shostack + Associates, and Kode with Klossy aren't public. ⋆｡°✩
->
-> **If you'd love to see a fuller portfolio, just reach out — I'm always happy to share more about my story!** 🎀
+<table>
+<tr>
+<td align="center">
+
+✩ **a note on these roles** ✩
+
+🔒 *psst — a good chunk of my work lives in private repos!* 🔒
+
+Most of what I've built at Amazon, Shostack + Associates, and Kode with Klossy isn't public. ⋆｡°✩
+
+**If you'd love to see a fuller portfolio, just reach out — I'm always happy to share more about my story!** 🎀
+
+</td>
+</tr>
+</table>
 
 ⋆⋅☆⋅⋆
 
