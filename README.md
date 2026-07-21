@@ -19,7 +19,7 @@ I'm a Computer Science + Social Policy student at Northwestern, building softwar
 
 - 🎓 Studying Computer Science & Social Policy, Security Concentration, ML/DS Minor
 - 🔐 Google Cybersecurity Professional Certified
-- 🗣️ Seal of Biliteracy — English & Spanish
+- 🗣️ Seal of Biliteracy: Spanish
 - 🌎 Currently: Peer Mentor @ Northwestern CS · Developer @ Shostack + Associates, CAS Strategies · Researcher w/ Professor Yan Chen and Professor Dan Linna
 
 <div align="center">
@@ -30,7 +30,7 @@ I'm a Computer Science + Social Policy student at Northwestern, building softwar
 
 ### 🚀 Where I've Been
 
-**🎪 Director, WildHacks** — Chicagoland's largest hackathon ✩
+**🎪 Director, WildHacks**, Chicagoland's largest hackathon ✩
 Grew the event from 174 → 700+ students across 108 universities, led 4 cross-functional teams (logistics, corporate engagement, tech, marketing), and raised $10K+ to keep the event free for every attendee.
 
 **👩‍🏫 Peer Mentor, Northwestern CS** ⋆｡°✩
@@ -40,7 +40,7 @@ Mentored computer science students across 8 quarters in Data Structures & Algori
 Shipped a React/TypeScript landing experience for 40M+ Amazon Books users, built secure auth middleware, and designed A/B tests across 5 international locales. Also built an event-driven auditing pipeline (SNS/SQS/Lambda) to catch ruleset violations before they became problems.
 
 **🛡️ Software Developer, Shostack + Associates** ⋆｡°✩
-Support the Threat Modeling Intensive at BlackHat — data flow diagrams, STRIDE, MITRE ATT&CK, and Lockheed Martin Kill Chain assessments — plus built a Pandoc-powered Python tool that turns Markdown into PPTX/DOCX/XLSX, cutting curriculum authoring time by 1.5×.
+Support the Threat Modeling Intensive at BlackHat (data flow diagrams, STRIDE, MITRE ATT&CK, and Lockheed Martin Kill Chain assessments) plus built a Pandoc-powered Python tool that turns Markdown into PPTX/DOCX/XLSX, cutting curriculum authoring time by 1.5×.
 
 **🌸 Software Developer, Kode with Klossy** ✩
 Helped run a coding program for 8,000+ scholars in 50+ cities; built a React/Node geocoding tool that improved instructor placement efficiency by 400%.
@@ -53,11 +53,11 @@ Helped run a coding program for 8,000+ scholars in 50+ cities; built a React/Nod
 
 ✩ **a note on these roles** ✩
 
-🔒 *psst — a good chunk of my work lives in private repos!* 🔒
+🔒 *psst! a good chunk of my work lives in private repos!* 🔒
 
 Most of what I've built at Amazon, Shostack + Associates, and Kode with Klossy isn't public. ⋆｡°✩
 
-**If you'd love to see a fuller portfolio, just reach out — I'm always happy to share more about my story!** 🎀
+**If you'd like to see a fuller portfolio, just reach out. I'm always happy to share more about my story!** 🎀
 
 </td>
 </tr>
@@ -103,7 +103,7 @@ Most of what I've built at Amazon, Shostack + Associates, and Kode with Klossy i
 
 𓂃 ⋆｡˚ ☁︎ ˚｡⋆ 𓂃
 
-💬 Always happy to talk security, hackathons, or good code — reach out anytime! ♡
+💬 Always happy to talk security, hackathons, or good code. Reach out anytime! ♡
 
 ⋆｡°✩ ⋆｡°✩ ⋆｡°✩
 
